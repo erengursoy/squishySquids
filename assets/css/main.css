@@ -1,0 +1,18 @@
+@tailwind base;
+.Shizuru {
+    font-family: "Shizuru";
+}
+
+.Blankblizzkrieg {
+    font-family: "Blankblizzkrieg";
+}
+
+.GeostarFill {
+    font-family: "Geostar Fill";
+}
+
+@tailwind components;
+@tailwind utilities;
+.shadow {
+    @apply shadow-3xl
+}

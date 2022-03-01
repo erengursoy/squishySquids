@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Shizuru";
+    src: local("Shizuru"), url(~assets/font/Shizuru-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Blankblizzkrieg";
+    src: local("Blankblizzkrieg"), url(~assets/font/Blankblizzkrieg.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Akaya Kanadaka";
+    src: local("Akaya-Kanadaka"), url(~assets/font/AkayaKanadaka-Regular.ttf) format("truetype");
+}
