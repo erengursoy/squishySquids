@@ -1,18 +1,7 @@
 @tailwind base;
-.Shizuru {
-    font-family: "Shizuru";
-}
-
-.Blankblizzkrieg {
-    font-family: "Blankblizzkrieg";
-}
-
-.GeostarFill {
-    font-family: "Geostar Fill";
+.Kanadaka {
+    font-family: "Akaya Kanadaka", Sans-serif;
 }
 
 @tailwind components;
 @tailwind utilities;
-.shadow {
-    @apply shadow-3xl
-}

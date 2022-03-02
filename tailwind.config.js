@@ -12,10 +12,12 @@ module.exports = {
             boxShadow: {
 
                 'mint': '0px 0px 10px 0px rgb(0 0 0 / 50%);',
+                'shadow-3xl': '0px 0px 10px 0px rgb(0 0 0 / 50%);',
 
             },
             spacing: {
                 '128': '32rem',
+                '18': '4.5rem'
             },
             colors: {
                 'header': '#2081E2',
